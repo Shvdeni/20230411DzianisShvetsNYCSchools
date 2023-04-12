@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NYCSchools</string>
+    <string name="school_name">School name:</string>
+    <string name="sat_critical_reading_avg_score">Reading average score:</string>
+    <string name="sat_critical_math_avg_score">Math average score:</string>
+    <string name="sat_critical_writing_avg_score">Writing average score:</string>
+</resources>
